@@ -6,5 +6,6 @@ Introduction
 Purpose
 
 How To Contribute
-:wq!
+
+Deployment
 
