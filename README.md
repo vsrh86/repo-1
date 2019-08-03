@@ -8,7 +8,7 @@ Introduction
   This is introduction
 
 Purpose
-
+  This is the purpose
 How To Contribute
 
 Deployment
