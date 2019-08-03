@@ -1,8 +1,12 @@
-# repo-1
+# repo
 Starter Web Peoject
 
+ This section represents repo starting point
+
 Introduction
-====This is introduction
+  
+  This is introduction
+
 Purpose
 
 How To Contribute
