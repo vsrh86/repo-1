@@ -13,3 +13,5 @@ How To Contribute
 
 Deployment
 
+#Copy Right
+ Added CopyRight ,All rights reserved.2019
